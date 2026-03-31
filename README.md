@@ -19,15 +19,6 @@ DataTable / Dictionary（データ管理）
 条件分岐による処理制御
 エラー時のメール通知
 ファイル存在チェックによる重複防止
-
-🏗️ 構成
-project/
- ├─ Main.xaml
- ├─ setdata.xaml
- ├─ DataAggregation workflow.xaml
- ├─ FormatSelection workflow.xaml
- │   
- ├─ README.md
  
 🔄 処理フロー
 外部設定ファイルの読み込み
